@@ -5,6 +5,9 @@ An algorithm to minimize the distance travelled by a salesman across several cit
 # Code files
 For each algorithm type there is a .py code file i.e. "Hill_climbing_simple.py" and "Hill_climbing_steepest_descent.py".
 
-$x^2$
+Run the desired .py file and the output will be written in the "results" directory. Results include distance covered for each iteration, execution time, and also the best found traverse sequence. 
 
-Run the desired .py file and the output will be written in the "results" directory. Results include distance covered for each iteration, also the best found traverse sequence. 
+Sample of some result plots  
+
+![Hill_climbing_steepest_descent_cities_full](https://user-images.githubusercontent.com/72637753/111034150-ec19da00-841c-11eb-9c95-8e3a8ec9c6da.png)
+
