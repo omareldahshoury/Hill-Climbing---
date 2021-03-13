@@ -7,11 +7,7 @@ For each algorithm type there is a .py code file i.e. "Hill_climbing_simple.py" 
 
 Run the desired .py file and the output will be written in the "results" directory. Results include distance covered for each iteration, execution time, and also the best found traverse sequence. 
 
-Sample of plots outputed by the code.  
+Sample output plot  
 
 ![Hill_climbing_steepest_descent_cities_full](https://user-images.githubusercontent.com/72637753/111034150-ec19da00-841c-11eb-9c95-8e3a8ec9c6da.png)
-
-
-[Hill_climbing_steepest_descent_cities_full.txt](https://github.com/omareldahshoury/Hill-Climbing-Travelling-Salesman/files/6134977/Hill_climbing_steepest_descent_cities_full.txt)
-
 
