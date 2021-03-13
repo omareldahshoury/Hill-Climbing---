@@ -5,7 +5,7 @@ An algorithm to minimize the distance travelled by a salesman across several cit
 # Code files
 For each algorithm type there is a .py code file i.e. "Hill_climbing_simple.py" and "Hill_climbing_steepest_descent.py".
 
-Run the desired .py file and the output will be written in the "results" directory. Results include distance covered for each iteration, execution time, and also the best found traverse sequence. 
+Run the desired .py file and the output will be written in the "results" directory. Results include a text file contatining information such as the distance covered for each iteration, execution time, and also the best found traverse sequence. Also a plot depicting the relation between number of iterations and total distance covered.
 
 Sample output plot  
 
